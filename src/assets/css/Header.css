@@ -1,0 +1,16 @@
+.header {
+  background: var(--main-bg-color);
+  padding: 10px 0;
+}
+
+.header-logo a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+  font-size: 45px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.header-logo a:hover {
+  opacity: 0.9;
+}
